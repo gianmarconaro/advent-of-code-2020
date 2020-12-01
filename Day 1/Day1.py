@@ -1,6 +1,6 @@
 # Read Input
 
-with open("Day1.txt") as f:
+with open("input.txt") as f:
     inputNumbers = [int(line.strip()) for line in f.readlines()]
 
 # Solution
