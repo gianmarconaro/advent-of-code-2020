@@ -1,6 +1,6 @@
 # Advent of Code 2020 :christmas_tree:
 
-:tada: My solutions of this edition of the Advent of the Code :tada:
+:tada: My solutions of this edition of the Advent of the Code written in Python :tada:
 
 
 | Day |    Stars     |
@@ -13,4 +13,4 @@
 |  6  | :star::star: |
 |  7  | :star::star: |
 |  8  | :star::star: |
-
+|  9  | :star::star: |
